@@ -1,8 +1,4 @@
-
- Oiii eu sou Mauricio Junior, sou  Desenvolvedor de Software e Analista de Segurança.
-
- 🔭 Hoje trabalho como Analista de Segurança Jr  ❤️ Jesus é o Caminho, a Verdade e a Vida!
-
+## Oi eu sou Mauricio Junior, Desenvolvedor de Software e Analista de Segurança 
 <div align="center">
   <a href="https://github.com/m4uriciojunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4uriciojunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -3,7 +3,7 @@
 
  🔭 Hoje trabalho como Analista de Segurança Jr  ❤️ Jesus é o Caminho, a Verdade e a Vida!
 
-<div align="center">
+<div>
   <a href="https://github.com/m4uriciojunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m4uriciojunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4uriciojunior&layout=compact&langs_count=7&theme=dracula"/>

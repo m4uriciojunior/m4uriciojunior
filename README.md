@@ -3,10 +3,7 @@
 
 - 🔭 Hoje trabalho como Analista de Segurança Jr
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas.
-- 🤔 Sou muito criativo..
-- 💬 Ingles , Espanhol e Mandarim ...
 - ❤️ Jesus é o Caminho, a Verdade e a Vida!
-- ⚡ Gosto de tocar violão
 
 <div align="center">
   <a href="https://github.com/m4uriciojunior">
